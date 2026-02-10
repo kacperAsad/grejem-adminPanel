@@ -11,7 +11,7 @@
       "navStyle": "inline",
       "orientation": "top",
       "position": "static",
-      "showNavbar": true,
+      "showNavbar": false,
       "showSignIn": false
     },
     "themeSetting": {
@@ -24,7 +24,7 @@
   "collapseInvisibleWidgets": true,
   "color": "#EAEDFB",
   "evaluationVersion": 2,
-  "icon": "book",
+  "icon": "bag",
   "pages": [
     {
       "id": "Dashboard",
@@ -42,7 +42,7 @@
       "navStyle": "inline",
       "orientation": "top",
       "position": "static",
-      "showNavbar": true,
+      "showNavbar": false,
       "showSignIn": false
     },
     "themeSetting": {
