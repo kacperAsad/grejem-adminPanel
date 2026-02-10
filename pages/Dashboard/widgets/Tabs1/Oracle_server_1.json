@@ -14,7 +14,11 @@
       "key": "borderRadius"
     }
   ],
-  "dynamicTriggerPathList": [],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
   "isDefaultClickDisabled": true,
   "isDisabled": false,
   "isLoading": false,
@@ -27,6 +31,7 @@
   "mobileRightColumn": 19,
   "mobileTopRow": 1,
   "needsErrorInfo": false,
+  "onClick": "{{copyToClipboard('89.168.96.208').then(() => {\n  showAlert('Skopiowano adres ip serwera do schowka', 'success');\n});}}",
   "parentColumnSpace": 12.75,
   "parentId": "szesb4m3dl",
   "parentRowSpace": 10,

@@ -5,12 +5,12 @@
   "borderColor": "#E0DEDE",
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
   "borderWidth": 1,
-  "bottomRow": 32,
+  "bottomRow": 24,
   "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
   "children": [
     {
       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-      "bottomRow": 240,
+      "bottomRow": 150,
       "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
       "canExtend": true,
       "detachFromLayout": true,
@@ -56,7 +56,7 @@
     },
     {
       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-      "bottomRow": 240,
+      "bottomRow": 200,
       "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
       "canExtend": true,
       "detachFromLayout": true,
@@ -102,7 +102,7 @@
     },
     {
       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-      "bottomRow": 240,
+      "bottomRow": 220,
       "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
       "canExtend": false,
       "containerStyle": "none",
@@ -146,7 +146,7 @@
       "widgetName": "Canvas3"
     }
   ],
-  "defaultTab": "Tab 1",
+  "defaultTab": "Administracja",
   "dynamicBindingPathList": [
     {
       "key": "accentColor"
@@ -174,8 +174,8 @@
   "mobileRightColumn": 21,
   "mobileTopRow": 11,
   "needsErrorInfo": false,
-  "originalBottomRow": 26,
-  "originalTopRow": 7,
+  "originalBottomRow": 23,
+  "originalTopRow": 4,
   "parentColumnSpace": 13.0625,
   "parentId": "0",
   "parentRowSpace": 10,
@@ -212,7 +212,7 @@
       "widgetId": "ygpvdpuaty"
     }
   },
-  "topRow": 4,
+  "topRow": 5,
   "type": "TABS_WIDGET",
   "version": 3,
   "widgetId": "2o1yewzyfz",
